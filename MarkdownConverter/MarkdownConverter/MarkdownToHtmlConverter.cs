@@ -88,7 +88,7 @@ namespace MarkdownConverter
                     // If the markdown contains only '#s', default the tag to paragraph.
                     // if the count is greater than 6, default tag is paragraph.
                     // If there is no space after '#' need to consider it as a paragraph.
-                    if (count == markdown.Length || count > 6 || markdown[count] != ' ' || string.IsNullOrWhiteSpace(markdown.Substring(count + 1)))
+                    if (count == markdown.Length || count > HeaderTag.MaxHeaderTagCount || markdown[count] != ' ' || string.IsNullOrWhiteSpace(markdown.Substring(count + 1)))
                     {
                         return defaultTag;
                     }

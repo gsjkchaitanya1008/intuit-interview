@@ -16,6 +16,8 @@
         /// </summary>
         public int Count { get; private set; }
 
+        public static readonly int MaxHeaderTagCount = 6;
+
         /// <summary>
         /// Initializes a new instance of <see cref="HeaderTag"/>
         /// </summary>
