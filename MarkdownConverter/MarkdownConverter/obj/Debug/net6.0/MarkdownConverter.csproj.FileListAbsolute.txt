@@ -1,0 +1,15 @@
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\bin\Debug\net6.0\MarkdownConverter.exe
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\bin\Debug\net6.0\MarkdownConverter.deps.json
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\bin\Debug\net6.0\MarkdownConverter.runtimeconfig.json
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\bin\Debug\net6.0\MarkdownConverter.dll
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\bin\Debug\net6.0\MarkdownConverter.pdb
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.csproj.AssemblyReference.cache
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.AssemblyInfoInputs.cache
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.AssemblyInfo.cs
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.csproj.CoreCompileInputs.cache
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.dll
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\refint\MarkdownConverter.dll
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.pdb
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\MarkdownConverter.genruntimeconfig.cache
+C:\Chaitanya's Drive\Study\Interviews\Intuit\MarkdownConverter\MarkdownConverter\obj\Debug\net6.0\ref\MarkdownConverter.dll
